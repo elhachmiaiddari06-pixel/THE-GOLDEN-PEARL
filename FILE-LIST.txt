@@ -1,0 +1,39 @@
+📦 THE GOLDEN PEARL - COMPLETE PACKAGE
+=======================================
+
+Generated: Fri Feb 13 18:14:04 UTC 2026
+
+/bin/sh: 9: tree: not found
+.
+./.gitignore
+./FILE-LIST.txt
+./QUICK-START.md
+./README.md
+./docs
+./docs/ASSETS-GUIDE.md
+./docs/CHANGES-2026.md
+./docs/DEMARRAGE-RAPIDE.md
+./docs/GUIDE-GITHUB-PAGES.md
+./docs/GUIDE-REFERENCEMENT-GOOGLE.md
+./docs/IMPLEMENTATION-GUIDE.md
+./docs/SUGGESTIONS-AMELIORATIONS.md
+./images
+./images/products
+./images/products/black-clutch-detail.png
+./images/products/black-handbag.png
+./images/products/black-pearl-clutch.png
+./images/products/branding-1.png
+./images/products/branding-2.png
+./images/products/burgundy-clutch.png
+./images/products/colorful-keychains.png
+./images/products/emerald-clutch.png
+./images/products/keychains-collection.png
+./images/products/pearl-bw-bag.png
+./images/products/ruby-clutch.png
+./images/products/teal-clutch.png
+./index.html
+./robots.txt
+./sitemap.xml
+
+Total files:
+26
